@@ -15,12 +15,12 @@ Taxonomic profiles were generated with MetaPhlAn 4 and functional profiles with 
 
 ## Repository structure
 
-| Folder | Description | Output in manuscript |
-|---|---|---|
-| `Selection/` | [Selection of participants and samples, application of exclusion criteria, and creation of analysis-ready metadata.] |
-| `Gut/` | [Analyses of the gut microbiome | 
-| `Oral/` | [Analyses of the oral microbiome.] |
-| `Vagina/` | [Analyses of the vaginal microbiome.] 
+| Folder | Description | 
+|---|---|
+| `Selection/` | Selection of participants and samples, application of exclusion criteria, and creation of analysis-ready metadata. |
+| `Gut/` |Analyses of the gut microbiome | 
+| `Oral/` | Analyses of the oral microbiome. |
+| `Vagina/` | Analyses of the vaginal microbiome.] 
 
 ## Citation
   Full citation and DOI to be added upon publication.
